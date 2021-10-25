@@ -1,1 +1,1 @@
-Les deseo el mejor de los éxitos con su práctica =)
+echo "Siento que me hace falta practicar los comandos de GIT"
